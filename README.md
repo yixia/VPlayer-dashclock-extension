@@ -1,4 +1,4 @@
-DashClock VPlayer Extension
+VPlayer for DashClock
 ===========================
 
 DashClock VPlayer Extension is an extension for DashClock Widget It's quickly install or launch VPlayer in the widget.
