@@ -16,7 +16,7 @@
 
 <resources>
     <string name="app_name">VPlayer for DashClock</string>
-    <string name="extension_title">VPlayer extension</string>
+    <string name="extension_title">VPlayer</string>
     <string name="extension_description">Quick launch VPlayer Video Player</string>
     <string name="expanded_title">VPlayer</string>
     <string name="expanded_body">The best video player for Android</string>
